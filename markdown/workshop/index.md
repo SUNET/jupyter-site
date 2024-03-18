@@ -21,8 +21,7 @@ This is the tentative schedule for the workshop. It is subject to change.
 
 | When |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|What |
 | --- | --- | --- |
-| 13:00 - 13:10 |  | Welcome |
-| 13:10 - 13:20 |  | [SUNET](https://www.sunet.se) |
+| 13:00 - 13:20 |  | [SUNET](https://www.sunet.se) |
 | 13:20 - 13:40 |  | TBD |
 | 13:40 - 14:00 |  | TBD |
 | 14:00 - 14:10 |  | Break |
