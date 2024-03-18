@@ -1,6 +1,6 @@
 # CS3 JupyterHub Community Technical Workshop 2024
 
-The Workshop organized by [SUNET](https://sunet.se) as an informal event for the [CS3](https://www.cs3community.org/) JupyterHub Community. The will be held online on Wednesday, May 15, 2024, 13:00-16:00 CEST.
+The Workshop organized by [SUNET](https://sunet.se) as an informal event for the [CS3](https://www.cs3community.org/) JupyterHub Community. The workshop will be held online on Wednesday, May 15, 2024, 13:00-16:00 CEST.
 
 To participate, please register by sending an email to [drive@sunet.se](mailto:drive@sunet.se) with the subject "JupyterHub Workshop 2024" and your name and affiliation.
 
