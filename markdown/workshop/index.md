@@ -24,9 +24,9 @@ This is the tentative schedule for the workshop, all times are in CEST timezone 
 | --- | --- | --- |
 | 13:00 - 13:20 |  | Micke Nordin - [SUNET](https://sunet.se/en) |
 | 13:20 - 13:40 |  | Min Ragan-Kelley - [JupyterHub project](https://jupyter.org/hub) |
-| 13:40 - 14:00 |  | Michael Wuttke - [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) | |
+| 13:40 - 14:00 |  | Michael Wuttke - [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) |
 | 14:00 - 14:10 |  | Break |
-| 14:10 - 14:30 |  | TBD |
+| 14:10 - 14:30 |  | Michael Wigard - [Universität Münster](https://www.uni-muenster.de/en) |
 | 14:30 - 14:50 |  | TBD |
 | 14:50 - 15:00 |  | Break |
 | 15:00 - 15:20 |  | TBD |
