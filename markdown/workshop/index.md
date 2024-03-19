@@ -22,8 +22,8 @@ This is the tentative schedule for the workshop, all times are in CEST timezone 
 
 | When |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|What |
 | --- | --- | --- |
-| 13:00 - 13:20 |  | [SUNET](https://www.sunet.se) |
-| 13:20 - 13:40 |  | TBD |
+| 13:00 - 13:20 |  | [SUNET](https://sunet.se/en) |
+| 13:20 - 13:40 |  | [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) | |
 | 13:40 - 14:00 |  | TBD |
 | 14:00 - 14:10 |  | Break |
 | 14:10 - 14:30 |  | TBD |
