@@ -14,7 +14,7 @@ Please indicate in your registration email if you are planning to do so, and we 
 The slot for the presentation will be 15 minutes with an additional 5 minutes for questions.
 
 After each hour of the presentations, we will have a 10 minutes break. Any additional time that is left after the presentations will be used for a free form discussion.
-If we run out of presentations and/or other things to say before the three hours have passed, we will end the workshop early.
+If we run out of presentations and/or other things to say before the four hours have passed, we will end the workshop early.
 
 ## Schedule
 
