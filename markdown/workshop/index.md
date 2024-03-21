@@ -20,20 +20,20 @@ If we run out of presentations and/or other things to say before the four hours 
 
 This is the tentative schedule for the workshop, all times are in CEST timezone (UTC+02:00). The schedule is subject to change.
 
-| When |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|What |
-| --- | --- | --- |
-| 13:00 - 13:10 |  | Introduction |
-| 13:10 - 13:40 |  | Min Ragan-Kelley - [JupyterHub project](https://jupyter.org/hub) lead |
-| 13:40 - 14:00 |  | Michał Zimniewicz - [Poznan Supercomputing and Networking Center](https://psnc.pl/) |
-| 14:00 - 14:10 |  | Break |
-| 14:10 - 14:30 |  | Michael Wuttke - [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) |
-| 14:30 - 14:50 |  | Michael Wigard - [Universität Münster](https://www.uni-muenster.de/en) |
-| 14:50 - 15:10 |  | Francesc Torradeflot - [Port d'Informació Científica](https://www.pic.es/) |
-| 15:10 - 15:20 |  | Break |
-| 15:20 - 15:40 |  | Micke Nordin - [SUNET](https://sunet.se/en) |
-| 15:40 - 16:00 |  | TBD |
-| 16:00 - 16:20 |  | TBD |
-| 16:20 - 16:30 |  | Break |
-| 16:30 - 17:00 |  | Discussion |
+| When | What |
+| --- | --- |
+| 13:00 - 13:10 | Introduction |
+| 13:10 - 13:40 | Min Ragan-Kelley - [JupyterHub project](https://jupyter.org/hub) lead |
+| 13:40 - 14:00 | Michał Zimniewicz - [Poznan Supercomputing and Networking Center](https://psnc.pl/) |
+| 14:00 - 14:10 | Break |
+| 14:10 - 14:30 | Michael Wuttke - [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) |
+| 14:30 - 14:50 | Michael Wigard - [Universität Münster](https://www.uni-muenster.de/en) |
+| 14:50 - 15:10 | Francesc Torradeflot - [Port d'Informació Científica](https://www.pic.es/) |
+| 15:10 - 15:20 | Break |
+| 15:20 - 15:40 | Micke Nordin - [SUNET](https://sunet.se/en) |
+| 15:40 - 16:00 | TBD |
+| 16:00 - 16:20 | TBD |
+| 16:20 - 16:30 | Break |
+| 16:30 - 17:00 | Discussion |
 ---
 <img src="/assets/sunet.svg" alt="SUNET" style="vertical-align: text-top;hight: 100px;" align="left"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/hublogo.svg" alt="JupyterHub" style="vertical-align: text-top;width: 200px;" align="middle"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/cs3-logo.png" alt="CS3" style="vertical-align: text-top; height:100px;" align="middle"/>
