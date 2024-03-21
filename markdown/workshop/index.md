@@ -23,14 +23,14 @@ This is the tentative schedule for the workshop, all times are in CEST timezone 
 | When | What |
 | --- | --- |
 | 13:00 - 13:10 | Introduction |
-| 13:10 - 13:40 | Min Ragan-Kelley - [JupyterHub project](https://jupyter.org/hub) lead |
-| 13:40 - 14:00 | Michał Zimniewicz - [Poznan Supercomputing and Networking Center](https://psnc.pl/) |
+| 13:10 - 13:40 | Min Ragan-Kelley · [JupyterHub project](https://jupyter.org/hub) lead |
+| 13:40 - 14:00 | Michał Zimniewicz · [Poznan Supercomputing and Networking Center](https://psnc.pl/) |
 | 14:00 - 14:10 | Break |
-| 14:10 - 14:30 | Michael Wuttke - [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) |
-| 14:30 - 14:50 | Michael Wigard - [Universität Münster](https://www.uni-muenster.de/en) |
-| 14:50 - 15:10 | Francesc Torradeflot - [Port d'Informació Científica](https://www.pic.es/) |
+| 14:10 - 14:30 | Michael Wuttke · [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) |
+| 14:30 - 14:50 | Michael Wigard · [Universität Münster](https://www.uni-muenster.de/en) |
+| 14:50 - 15:10 | Francesc Torradeflot · [Port d'Informació Científica](https://www.pic.es/) |
 | 15:10 - 15:20 | Break |
-| 15:20 - 15:40 | Micke Nordin - [SUNET](https://sunet.se/en) |
+| 15:20 - 15:40 | Micke Nordin · [SUNET](https://sunet.se/en) |
 | 15:40 - 16:00 | TBD |
 | 16:00 - 16:20 | TBD |
 | 16:20 - 16:30 | Break |
