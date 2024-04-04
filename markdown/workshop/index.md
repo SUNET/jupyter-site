@@ -31,7 +31,7 @@ This is the tentative schedule for the workshop, all times are in CEST timezone 
 | 14:50-15:10 |  | Francesc Torradeflot - [Port d'Informació Científica](https://www.pic.es/) |
 | 15:10-15:20 |  | Break |
 | 15:20-15:40 |  | Micke Nordin - [SUNET](https://sunet.se/en) |
-| 15:40-16:00 |  | TBD |
+| 15:40-16:00 |  | Andrii Salnikov - [MAX IV Laboratory](https://www.maxiv.lu.se/) |
 | 16:00-16:20 |  | TBD |
 | 16:20-16:30 |  | Break |
 | 16:30-17:00 |  | Discussion |
