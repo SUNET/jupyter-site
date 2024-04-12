@@ -18,7 +18,7 @@ If we run out of presentations and/or other things to say before the four hours 
 
 ## Schedule
 
-This is the tentative schedule for the workshop, all times are in CEST timezone (UTC+02:00). The schedule is subject to change.
+This is the schedule for the workshop, all times are in CEST timezone (UTC+02:00). The schedule is more or less fixed at this point.
 
 | When |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|What |
 | --- | --- | --- |
