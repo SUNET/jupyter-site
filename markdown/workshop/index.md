@@ -1,9 +1,13 @@
 # CS3 JupyterHub Community Technical Workshop 2024
 
+** We now have an Indico page for the conference! Please use the registration for there if you want to [register](https://indico.cern.ch/event/1413757/). **
+All participants who signed up before 2024-05-08 have allready been imported into Indico.
+
+
 The Workshop organized by [SUNET](https://sunet.se) as an informal event for the [CS3](https://www.cs3community.org/) JupyterHub Community.
 The workshop will be held online on Wednesday, May 15, 2024, 13:00-17:00 CEST (Edit 20240320: extended workshop to 17:00 CEST to accomodate more presentations). Attendence is free of charge.
 
-To participate, please register by sending an email to [drive@sunet.se](mailto:drive@sunet.se) with the subject "JupyterHub Workshop 2024" and your name and affiliation.
+To participate, please register by going to [Indico](https://indico.cern.ch/event/1413757/). You can contact us via email at [drive@sunet.se](mailto:drive@sunet.se) if you have questions regadring the Workshop.
 
 The workshop will be held in English on Zoom. A link to the Zoom meeting will be sent to all registered participants well in time for the workshop.
 
