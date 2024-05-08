@@ -1,6 +1,6 @@
 # CS3 JupyterHub Community Technical Workshop 2024
 
-** We now have an Indico page for the conference! Please use the registration for there if you want to [register](https://indico.cern.ch/event/1413757/). **
+**We now have an Indico page for the conference! Please use the registration for there if you want to [register](https://indico.cern.ch/event/1413757/).**
 All participants who signed up before 2024-05-08 have allready been imported into Indico.
 
 
