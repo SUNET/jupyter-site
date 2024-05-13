@@ -35,9 +35,9 @@ This is the schedule for the workshop, all times are in CEST timezone (UTC+02:00
 | 14:45-15:05 |  | Micke Nordin - [SUNET](https://sunet.se/en) |
 | 15:05-15:15 |  | Break |
 | 15:15-15:35 |  | Andrii Salnikov - [MAX IV Laboratory](https://www.maxiv.lu.se/) |
-| 15:25-15:45 |  | Tim Kreuzer - [Juelich Supercomputing Centre](https://jupyter.jsc.fz-juelich.de/) |
-| 15:45-15:55 |  | Break |
-| 15:55-16:15 |  | Diogo Castro - [CERN](https://home.cern) |
-| 16:15-17:00 |  | Discussion |
+| 15:35-15:55 |  | Tim Kreuzer - [Juelich Supercomputing Centre](https://jupyter.jsc.fz-juelich.de/) |
+| 15:55-16:05 |  | Break |
+| 16:05-16:25 |  | Diogo Castro - [CERN](https://home.cern) |
+| 16:25-17:00 |  | Discussion |
 ---
 <img src="/assets/sunet.svg" alt="SUNET" style="vertical-align: text-top;hight: 100px;" align="left"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/hublogo.svg" alt="JupyterHub" style="vertical-align: text-top;width: 200px;" align="middle"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/cs3-logo.png" alt="CS3" style="vertical-align: text-top; height:100px;" align="middle"/>
