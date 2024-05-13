@@ -28,17 +28,16 @@ This is the schedule for the workshop, all times are in CEST timezone (UTC+02:00
 | --- | --- | --- |
 | 13:00-13:05 |  | Introduction |
 | 13:05-13:35 |  | Min Ragan-Kelley - [JupyterHub project](https://jupyter.org/hub) lead |
-| 13:35-13:55 |  | Michał Zimniewicz - [Poznan Supercomputing and Networking Center](https://psnc.pl/) |
-| 13:55-14:00 |  | Break |
-| 14:00-14:20 |  | Michael Wuttke - [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) |
-| 14:20-14:40 |  | Michael Wigard - [Universität Münster](https://www.uni-muenster.de/en) |
-| 14:40-15:00 |  | Francesc Torradeflot - [Port d'Informació Científica](https://www.pic.es/) |
-| 15:00-15:05 |  | Break |
-| 15:05-15:25 |  | Micke Nordin - [SUNET](https://sunet.se/en) |
-| 15:25-15:45 |  | Andrii Salnikov - [MAX IV Laboratory](https://www.maxiv.lu.se/) |
-| 15:45-16:05 |  | Tim Kreuzer - [Juelich Supercomputing Centre](https://jupyter.jsc.fz-juelich.de/) |
-| 16:05-16:10 |  | Break |
-| 16:10-16:30 |  | Diogo Castro - [CERN](https://home.cern) |
-| 16:30-17:00 |  | Discussion |
+| 13:35-13:55 |  | Michael Wuttke - [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) |
+| 13:55-14:05 |  | Break |
+| 14:05-14:25 |  | Michael Wigard - [Universität Münster](https://www.uni-muenster.de/en) |
+| 14:25-14:45 |  | Francesc Torradeflot - [Port d'Informació Científica](https://www.pic.es/) |
+| 14:45-15:05 |  | Micke Nordin - [SUNET](https://sunet.se/en) |
+| 15:05-15:15 |  | Break |
+| 15:15-15:35 |  | Andrii Salnikov - [MAX IV Laboratory](https://www.maxiv.lu.se/) |
+| 15:25-15:45 |  | Tim Kreuzer - [Juelich Supercomputing Centre](https://jupyter.jsc.fz-juelich.de/) |
+| 15:45-15:55 |  | Break |
+| 15:55-16:15 |  | Diogo Castro - [CERN](https://home.cern) |
+| 16:15-17:00 |  | Discussion |
 ---
 <img src="/assets/sunet.svg" alt="SUNET" style="vertical-align: text-top;hight: 100px;" align="left"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/hublogo.svg" alt="JupyterHub" style="vertical-align: text-top;width: 200px;" align="middle"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/cs3-logo.png" alt="CS3" style="vertical-align: text-top; height:100px;" align="middle"/>
